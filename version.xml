@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.0.0.1812</version>
+  <version>1.0.0.1813</version>
   <url>https://github.com/Gassner-Waagen/CashConnector/releases/download/1.0.0.1812/CashConnector_1.0.0.1812.zip</url>
   <changelog>https://github.com/Gassner-Waagen/CashConnector/releases</changelog>
   <mandatory mode="2">true</mandatory>
